@@ -70,7 +70,7 @@ generateShoppingList = () => {
     return (
       <div className='container'>
         <div className='nav'>
-          <h1 className='header'>UdaciMeals</h1>
+          <h1 className='header'>Meal Tracker</h1>
           <button
             className='shopping-list'
             onClick={this.openIngredientsModal}>
